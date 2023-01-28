@@ -1,1 +1,1 @@
-# my_messaging
+# C Messaging system ( using Standard Signal LIB )
